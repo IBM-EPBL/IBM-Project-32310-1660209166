@@ -1,5 +1,5 @@
 # IBM-Project-32412-1660209166
-<h1>Car Resale value Prediction</h1>
+<h1>Car Resale Value Prediction</h1>
 <h3>Project Objectives</h3>
 <b>By the end of this project:</b>
 <ul>
